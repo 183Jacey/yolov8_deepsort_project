@@ -1,0 +1,3 @@
+
+SyntaxError: invalid character '×' (U+00D7)
+语法问题：python中乘法运算符用英文星号*，不能用中文乘号✖ ；

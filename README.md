@@ -1,0 +1,2 @@
+# yolov8_deepsort_project
+基于YOLOv8与DeepSORT的行人检测与跟踪系统

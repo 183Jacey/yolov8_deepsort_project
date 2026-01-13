@@ -1,0 +1,7 @@
+import torch
+from ultralytics import YOLO
+
+model = YOLO("/home/jacey/.cache/ultralytics/weights/yolov8n.pt")
+
+print("环境关联成功，torch版本:",torch.__version__)
+print("YOLOv8加载成功:", model)
