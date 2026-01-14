@@ -19,4 +19,3 @@ pip install opencv-python==4.8.0.76 -i https://mirrors.aliyun.com/pypi/simple/
 # 安装labelImg（图像标注工具）
 pip install labelImg -i https://mirrors.aliyun.com/pypi/simple/
 
-
