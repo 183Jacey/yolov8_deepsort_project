@@ -1,0 +1,5 @@
+path: /home/jacey/桌面/yolo_project/data_set/merged_dataset  # 数据集根路径
+train: images/train               # 训练集图片目录
+val: images/val                   # 验证集图片目录
+names:
+  0: pedestrian                   # 仅行人类别
